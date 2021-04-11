@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-  <a target="_blank" href="https://www.linkedin.com/in/prabhus06/">
+  <a target="_blank" href="https://www.linkedin.com/in/prabhu06/">
     <img align="left" alt="LinkdeIN" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
 
